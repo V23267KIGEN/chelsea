@@ -1,0 +1,36 @@
+body{
+    background-color: yellow;
+    margin-left: 50px;
+    margin-top: 10px;
+
+}
+.header{
+    font-size:xx-large;
+    font-weight: ;
+}
+.container{
+    background-color: blue;
+    height: 500px;
+    width: 500px;
+    margin-left: 500px;
+    border-radius: 10px;
+    text-align: center;
+    color: aliceblue;
+}
+.img{
+    align-items: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+[]
